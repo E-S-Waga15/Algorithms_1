@@ -1,0 +1,42 @@
+implements : keyword
+synchronized : keyword
+private : Access modifier
+import : keyword
+for : loop
+String : data type
+float : data type
+interface : keyword
+while : loop
+switch : keyword
+public : Access modifier
+protected : Access modifier
+native : keyword
+else : keyword
+continue : keyword
+catch : keyword
+class : keyword
+if : keyword
+case : keyword
+new : keyword
+static : keyword
+void : keyword
+package : keyword
+break : keyword
+double : data type
+finally : keyword
+this : keyword
+innerclass : keyword
+volatile : keyword
+abstract : keyword
+strictfp : keyword
+throws : keyword
+int : data type
+enum : keyword
+super : keyword
+boolean : data type
+extends : keyword
+throw : keyword
+transient : keyword
+final : keyword
+try : keyword
+return : keyword
