@@ -1,2 +1,13 @@
 # Algorithms_1
-A Java project featuring classic algorithms such as matrix search, BFS for grids, a keyword editor with auto-complete, and a dynamic programming solution to the 0/1 Knapsack problem.
+Algorithmic Problems in Java
+This project contains Java implementations of several classic algorithmic problems including:
+
+Matrix search algorithms using both iterative and recursive approaches.
+
+Breadth-First Search (BFS) for computing minimum distances in a grid.
+
+Keyword dictionary editor with keyword detection, addition, and auto-completion.
+
+0/1 Knapsack problem solved using dynamic programming.
+
+Each algorithm is implemented with performance considerations and examples to demonstrate functionality.
